@@ -23,4 +23,4 @@ pinned: false
 
 # Author: Syed M.
 # Linkedin: https://www.linkedin.com/in/syed-ai/
-# GitHub: https://github.com/samkazmi110
+# HuggingFace: https://huggingface.co/samkazmi
